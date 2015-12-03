@@ -20,7 +20,11 @@ ML-RF-VS | Random Forest | classification | paired (multilevel) | Parallellised.
 
 Buck et al 2016
 
+Filzmoser et al 2009
+
 Hanhineva et al 2015
+
+Westerhuis et al 2008
 
 ## Version history
 version | date | comment
